@@ -1,7 +1,7 @@
  # blockchainbasics
 블록체인 공부를 위한 기초 컨텐츠를 모아 놓은 곳
 
-<Blockchain Influencer>
+<블록체인 인플루언서>
   
  Top100 블록체인 Influencer: https://www.rise.global/top-fintech-people
 
@@ -26,10 +26,11 @@
  1. https://twitter.com/aantonop
  
  
-<Blockchain News>
+<블록체인 뉴스>
  1. 블록체이너스 유튜브 채널: https://www.youtube.com/channel/UCsH44G5T4hHXYrb1aGUB1Gw/featured
 
-<Blockchain Code Study>
+
+<블록체인 코드 공부>
  1. Building Blockchain in Go: https://jeiwan.cc/
  2. https://github.com/ethereum/go-ethereum
  3. https://ethresear.ch/
