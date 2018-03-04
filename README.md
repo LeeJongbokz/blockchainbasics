@@ -45,7 +45,8 @@
  5. 이오스: https://github.com/EOSIO/Documentation/blob/master/ko-KR/TechnicalWhitePaper.md (한글)
  6. 대시: https://github.com/dashpay/dash/wiki/Whitepaper 
 
-
+<P2P network>
+ 1. https://www.digitalcitizen.life/what-is-p2p-peer-to-peer
 
 
  
