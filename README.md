@@ -2,9 +2,8 @@
 블록체인 공부를 위한 기초 컨텐츠를 모아 놓은 곳
 
 <블록체인 인플루언서>
-  
- Top100 블록체인 Influencer: https://www.rise.global/top-fintech-people
 
+ Top100 블록체인 Influencer: https://www.rise.global/top-fintech-people
  
  비탈릭 부테린(Ethereum co-founder)
  
@@ -49,4 +48,8 @@
  1. https://www.digitalcitizen.life/what-is-p2p-peer-to-peer
 
 
- 
+<Bitcoin>
+ 1. https://en.bitcoin.it/wiki/Main_Page  비트코인 위키
+
+
+
