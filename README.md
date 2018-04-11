@@ -62,6 +62,7 @@
  3. https://steemit.com/kr/@icoreport/key-2-ecc 타원곡선 암호법(2)
  4. https://github.com/bellaj/Blockchain/blob/6bffb47afae6a2a70903a26d215484cf8ff03859/ecdsa_bitcoin.pdf ECDSA
  5. https://learncryptography.com/hash-functions/why-are-hashes-irreversible Hash function
+ 6. https://www.coindesk.com/bitcoin-hash-functions-explained/ Hash function(2)
 <위키피디아>
  1. https://ko.wikipedia.org/wiki/%EC%95%94%ED%98%B8%ED%95%99 암호학
  2. https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EC%84%9C%EB%AA%85  전자 서명
