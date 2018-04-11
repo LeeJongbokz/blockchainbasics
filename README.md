@@ -52,8 +52,17 @@
  2. https://twitter.com/aantonop 안드레아스.M.안토노폴로스(Mastering Bitcoin 저자) 트위터
 
 <관련 개념>
+
 -P2P network
  1. https://www.digitalcitizen.life/what-is-p2p-peer-to-peer
 
+-암호화 알고리즘
+ 1. https://wkdtjsgur100.github.io/RSA-algorithm/ RSA 알고리즘
+ 2. https://steemit.com/kr/@icoreport/key-1-rsa 타원곡선 암호법(1)
+ 3. https://steemit.com/kr/@icoreport/key-2-ecc 타원곡선 암호법(2)
+ 4. https://github.com/bellaj/Blockchain/blob/6bffb47afae6a2a70903a26d215484cf8ff03859/ecdsa_bitcoin.pdf ECDSA
+<위키피디아>
+ 1. https://ko.wikipedia.org/wiki/%EC%95%94%ED%98%B8%ED%95%99 암호학
+ 2. https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EC%84%9C%EB%AA%85  전자 서명
 
 
