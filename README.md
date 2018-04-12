@@ -15,13 +15,19 @@
 2. https://github.com/ethereum/go-ethereum 이더리움 코어 코드
 3. https://github.com/ethereum/wiki/wiki 이더리움 Wiki
 4. https://ethresear.ch/ 이더리움 리서치
+5. https://etherscan.io/ 이더리움 트랜잭션을 볼수있는 사이트
+6. https://ethernodes.org/network/1 이더리움 네트워크를 볼수있는 사이트
 
-4. http://vitalik.ca/  비탈릭 부테린 개인 Website 
-5. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄  
-6. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
+-비탈릭 부테린
+6. http://vitalik.ca/  비탈릭 부테린 개인 Website 
+7. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄  
+8. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
 
 <그외 알트코인>
+
+-Tendermint
+ 1. https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/9769/Buchman_Ethan_201606_MAsc.pdf Tendermint White Paper
 
 -라이트코인
  1. https://medium.com/@SatoshiLite  찰리 리 미디엄
