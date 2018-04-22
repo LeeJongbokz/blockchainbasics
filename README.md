@@ -24,6 +24,7 @@
 8. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
 
+
 <그외 알트코인>
 
 -Tendermint
@@ -58,6 +59,10 @@
  2. https://twitter.com/aantonop 안드레아스.M.안토노폴로스(Mastering Bitcoin 저자) 트위터
 
 <관련 개념>
+
+-PBFT
+ 1. http://www.pmg.lcs.mit.edu/papers/osdi99.pdf PBFT논문
+ 
 
 -P2P network
  1. https://www.digitalcitizen.life/what-is-p2p-peer-to-peer
