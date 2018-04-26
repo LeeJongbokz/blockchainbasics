@@ -20,7 +20,7 @@
 
 -비탈릭 부테린
 6. http://vitalik.ca/  비탈릭 부테린 개인 Website 
-7. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄  
+7. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
 8. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
 
@@ -53,7 +53,7 @@
   
 <블록체인 소식>
  1. https://www.youtube.com/channel/UCsH44G5T4hHXYrb1aGUB1Gw/featured 블록체이너스 유튜브 채널
-
+ 2. http://www.hashedpost.com/ 해시드 
 <기타 유명인>
  1. https://www.rise.global/top-fintech-people Top100 블록체인 Influencer
  2. https://twitter.com/aantonop 안드레아스.M.안토노폴로스(Mastering Bitcoin 저자) 트위터
