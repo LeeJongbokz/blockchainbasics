@@ -20,7 +20,7 @@
 6. https://ethernodes.org/network/1 이더리움 네트워크를 볼수있는 사이트
 
 -비탈릭 부테린
-7. http://vitalik.ca/  비탈릭 부테린 개인 Website 
+7. http://vitalik.ca/  비탈릭 부테린 개인 Website
 8. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
 9. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
@@ -28,6 +28,7 @@
 
 1. https://cryptozombies.io/  크립토좀비
 2. https://consensys.github.io/smart-contract-best-practices/general_philosophy/ 스마트 컨트랙트 보안
+3. http://solidity.readthedocs.io/en/latest/contracts.html#creating-contracts Solidity 문서
 
 <그외 알트코인>
 
