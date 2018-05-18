@@ -1,4 +1,5 @@
- # blockchainbasics
+
+# blockchainbasics
 블록체인 공부를 위한 기초 컨텐츠를 모아 놓은 곳
 
 <비트코인>
@@ -19,11 +20,14 @@
 6. https://ethernodes.org/network/1 이더리움 네트워크를 볼수있는 사이트
 
 -비탈릭 부테린
-6. http://vitalik.ca/  비탈릭 부테린 개인 Website 
-7. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
-8. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
+7. http://vitalik.ca/  비탈릭 부테린 개인 Website 
+8. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
+9. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
+<Solidity 프로그래밍 / Smart contract Security>
 
+1. https://cryptozombies.io/  크립토좀비
+2. https://consensys.github.io/smart-contract-best-practices/general_philosophy/ 스마트 컨트랙트 보안
 
 <그외 알트코인>
 
