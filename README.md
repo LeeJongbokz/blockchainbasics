@@ -19,10 +19,6 @@
 5. https://etherscan.io/ 이더리움 트랜잭션을 볼수있는 사이트
 6. https://ethernodes.org/network/1 이더리움 네트워크를 볼수있는 사이트
 
--비탈릭 부테린
-7. http://vitalik.ca/  비탈릭 부테린 개인 Website
-8. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
-9. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
 
 <Solidity 프로그래밍 / Smart contract Security>
 
@@ -79,8 +75,13 @@
  4. https://github.com/bellaj/Blockchain/blob/6bffb47afae6a2a70903a26d215484cf8ff03859/ecdsa_bitcoin.pdf ECDSA
  5. https://learncryptography.com/hash-functions/why-are-hashes-irreversible Hash function
  6. https://www.coindesk.com/bitcoin-hash-functions-explained/ Hash function(2)
+
 <위키피디아>
  1. https://ko.wikipedia.org/wiki/%EC%95%94%ED%98%B8%ED%95%99 암호학
  2. https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EC%84%9C%EB%AA%85  전자 서명
 
+<비탈릭 부테린>
 
+1. http://vitalik.ca/  비탈릭 부테린 개인 Website
+2. https://medium.com/@VitalikButerin 비탈릭 부테린 미디엄
+3. https://twitter.com/VitalikButerin 비탈릭 부테린 트위터
